@@ -108,7 +108,10 @@ Main fact table storing surgical activity.
 | ActualApproach | VARCHAR | Final surgery type |
 | ConvertedToOpen | BIT | Yes/No |
 | OperatingTimeMinutes | INT | Theatre duration |
-
+| CaseComplexity | VARCHAR | Low / Medium / High |
+| ElectiveEmergency | VARCHAR | Elective / Emergency |
+| TheatreSessionType | VARCHAR | Inpatient / Day Case |
+| CancelledCase | BIT | Yes/No |
 ---
 
 # 8. Outcomes
