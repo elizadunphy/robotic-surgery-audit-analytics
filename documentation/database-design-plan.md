@@ -4,7 +4,7 @@
 
 This project is designed as a simulated healthcare audit and analytics system for robotic-assisted surgery.
 
-The database will support the recording, monitoring, and reporting of surgical activity, patient outcomes, surgeon training, and governance oversight.
+The database will support the recording, monitoring and reporting of surgical activity, patient outcomes, surgeon training, and governance oversight.
 
 The design follows a relational database structure, with separate tables for hospitals, specialties, procedures, surgeons, patients, surgical cases, outcomes, and training/governance records.
 
