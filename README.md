@@ -8,6 +8,14 @@ This project simulates a national robotic surgery audit and reporting system des
 
 The project is inspired by real-world healthcare analytics and clinical audit environments, including surgical performance monitoring, hospital reporting, and governance frameworks used within modern healthcare systems.
 
+## Dashboard Screenshots
+
+### Executive Overview Dashboard
+![Executive Dashboard](images/executive_dashboard.png)
+
+### Clinical & Governance Analysis Dashboard
+![Clinical Dashboard](images/clinical_outcomes_dashboard.png)
+
 ## Project Objectives
 
 - Design a relational SQL database for robotic surgery audit data
