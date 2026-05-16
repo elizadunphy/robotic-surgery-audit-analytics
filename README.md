@@ -52,4 +52,6 @@ The project is inspired by real-world healthcare analytics and clinical audit en
 
 ## Status
 
-Project currently in design and planning phase.
+Core SQL database, synthetic audit dataset, and Power BI dashboard have been completed.
+
+The project includes healthcare governance KPIs, operational reporting dashboards, and audit-focused analytics designed to simulate a robotic surgery performance monitoring environment.
