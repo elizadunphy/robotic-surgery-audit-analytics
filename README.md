@@ -4,7 +4,7 @@ Healthcare audit and analytics portfolio project focused on robotic-assisted sur
 
 ## Project Overview
 
-This project simulates a national robotic surgery audit and reporting system designed to support healthcare governance, operational oversight, and data-driven decision-making.
+This project simulates a healthcare governance and robotic surgery audit reporting environment designed to support operational oversight, performance monitoring, and data-driven decision-making.
 
 The project is inspired by real-world healthcare analytics and clinical audit environments, including surgical performance monitoring, hospital reporting, and governance frameworks used within modern healthcare systems.
 
@@ -25,7 +25,18 @@ The project is inspired by real-world healthcare analytics and clinical audit en
 - Build dashboards and reporting outputs using Power BI
 - Demonstrate practical skills in SQL, data analysis, reporting, and healthcare operations
 
-## Planned Project Components
+## Key Dashboard Features
+
+- Executive KPI reporting
+- Complication rate monitoring
+- Readmission analysis
+- Conversion-to-open surgery tracking
+- Length of stay analysis
+- Hospital performance comparison
+- Surgical activity trend reporting
+- Interactive Power BI filtering and slicing
+  
+## Project Components
 
 ### Database Design
 - Hospitals
@@ -42,11 +53,23 @@ The project is inspired by real-world healthcare analytics and clinical audit en
 - Hospital performance comparisons
 - Governance KPI dashboards
 
-### Technologies
+## Technologies
 - SQL Server
 - Power BI
 - Excel
-- Python (planned future analysis)
+- Python (future analytical expansion planned)
+
+## Skills Demonstrated
+
+- SQL database design
+- Healthcare data modelling
+- Power BI dashboard development
+- DAX measure creation
+- KPI reporting
+- Data visualisation
+- Operational analytics
+- Governance reporting
+- Synthetic healthcare dataset generation
 
 ## Repository Structure
 
@@ -60,6 +83,8 @@ The project is inspired by real-world healthcare analytics and clinical audit en
 
 ## Status
 
-Core SQL database, synthetic audit dataset, and Power BI dashboard have been completed.
+## Status
 
-The project includes healthcare governance KPIs, operational reporting dashboards, and audit-focused analytics designed to simulate a robotic surgery performance monitoring environment.
+Core SQL database development, synthetic healthcare audit dataset generation, and multi-page Power BI dashboard reporting have been completed.
+
+The project demonstrates healthcare governance analytics, KPI reporting, operational monitoring, and clinical audit-focused dashboard design within a simulated robotic surgery reporting environment.
