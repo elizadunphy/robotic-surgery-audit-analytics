@@ -65,12 +65,11 @@ The project is inspired by real-world healthcare analytics and clinical audit en
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tools Used
 
 - SQL Server
 - Power BI
 - Excel
-- Python (future analytical expansion planned)
 
 ---
 
@@ -100,7 +99,7 @@ The project is inspired by real-world healthcare analytics and clinical audit en
 
 ---
 
-## 🚧 Status
+## Project Summary
 
 Core SQL database development, synthetic healthcare audit dataset generation, and multi-page Power BI dashboard reporting have been completed.
 
