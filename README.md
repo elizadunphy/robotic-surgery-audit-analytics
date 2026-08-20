@@ -56,6 +56,20 @@ The project is inspired by real-world healthcare analytics and clinical audit en
 - Outcomes
 - Governance & Training Records
 
+### Data Quality Checks
+Before carrying out KPI analysis and dashboard reporting, the dataset was checked for common data quality issues to make sure the information being analysed was complete, consistent and suitable for reporting.
+
+SQL checks were created to identify:
+- Duplicate patient records
+- Missing key patient information
+- Implausible patient and surgical case values
+- Missing or duplicate outcome records
+- Inconsistent complication information
+- Surgeons without governance records
+- Incomplete training and governance requirements
+
+The data quality checks are contained in [`sql/11_data_quality_checks.sql`](sql/11_data_quality_checks.sql).
+
 ### Reporting & Analytics
 - Surgical volume reporting
 - Complication tracking
