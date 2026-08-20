@@ -77,6 +77,12 @@ The data quality checks are contained in [`sql/11_data_quality_checks.sql`](sql/
 - Hospital performance comparisons
 - Governance KPI dashboards
 
+## 🔎 Analysis & Findings
+
+The analysis identified patterns in surgical activity, complications, readmissions, conversion to open surgery, length of stay and governance review status within the synthetic dataset.
+
+A summary of the findings and their interpretation is available here: [View Analysis & Findings](documentation/analysis_findings.md)
+
 ---
 
 ## 🛠️ Tools Used
