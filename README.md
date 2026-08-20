@@ -90,6 +90,7 @@ The data quality checks are contained in [`sql/11_data_quality_checks.sql`](sql/
 ## 💡 Skills Demonstrated
 
 - SQL database design
+- Data quality validation
 - Healthcare data modelling
 - Power BI dashboard development
 - DAX measure creation
